@@ -6,10 +6,10 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="oxnetwork",
+    name="0xnetwork",
     version="0.0.1",
-    author="Your Name",
-    author_email="you@example.com",
+    author="0x Network",
+    author_email="info@0x-network.com",
     description="A Python client for interacting with 0x-network Agents",
     long_description=long_description,
     long_description_content_type="text/markdown",
